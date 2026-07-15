@@ -162,9 +162,7 @@ Watch the project demo here:
 
 ## 📌 Future Improvements
 
-- 5-Day Weather Forecast
 - User Authentication
-- Dark Mode
 - Geolocation Support
 - Weather Charts
 - Deployment using Render & Vercel
